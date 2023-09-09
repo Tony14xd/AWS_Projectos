@@ -1,7 +1,14 @@
 OverView 
 
-Cloud Computing has been constantly evolcing and changing throughout the years since its emergence around 2006. It has without a doubt changed how we think about, use, and administer cloud services. Cloud Computing is the on-demand availability of computing services especially servers, data storage, networking and computing power without direct active management by the user. This is further facilitated by the renting of resources from another company's computers where you only pay for what you use as you go.
+Cloud computing has undergone a continuous process of evolution and transformation since its inception around 2006. It has undeniably revolutionized our approach to, utilization of, and administration of cloud services. Cloud computing, in essence, entails the on-demand provisioning of computing resources, including servers, data storage, networking, and computational power, without necessitating direct user management. This paradigm is further facilitated by the practice of renting resources from third-party companies, where users are billed exclusively for the resources they consume on a pay-as-you-go basis.
 
-I believe MultiCloud has become a more attractive approach in the recent years as you can leverage the best services from multiple cloud providers for a given task. This includes Amazon Web Services (AWS), which offers many services in cloud computing and offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions that includes a mixture of infrastructure as a service, platform as a service and software as a service offerings. Other major provides include Oracle Cloud Infrastructure, Google Cloud and Azure.
+In recent years, the MultiCloud approach has gained significant traction, presenting itself as a highly appealing strategy. It allows organizations to harness the strengths of multiple cloud service providers to accomplish specific tasks effectively. Prominent among these providers is Amazon Web Services (AWS), renowned for its comprehensive suite of cloud computing services characterized by flexibility, reliability, scalability, user-friendliness, and cost-effectiveness. AWS offers a versatile range of solutions encompassing Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
-This repository will demonstrate the potential of MultiCloud and my hands on experience with it where I hope to bring that knowledge to a producton environment and to excel my experience related to working with not only AWS products and services, but to the broad range of cloud providers to be future references for me as a junior Cloud Engineer. 
+Additionally, other major players in the cloud computing arena, such as Oracle Cloud Infrastructure, Google Cloud, and Microsoft Azure, offer formidable alternatives that complement the MultiCloud strategy.
+
+This repository serves as a testament to the potential of MultiCloud and reflects my hands-on experiences in this domain. My objective is to translate this knowledge into practical applications within a production environment and enhance my proficiency not only with AWS products and services but also with a diverse array of cloud service providers. I aspire to build a foundation of expertise that will serve as a valuable resource as I progress in my role as a junior Cloud Engineer.
+
+
+
+
+
